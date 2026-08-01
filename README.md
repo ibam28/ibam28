@@ -1,56 +1,60 @@
 # 🚀 FlowCore Platform
 
-**AI Automation Platform built with PHP, Docker, n8n, PostgreSQL, and AI**
+> **An AI-powered business automation platform built with PHP, PostgreSQL, Docker, n8n, and modern AI technologies.**
 
-FlowCore Platform adalah proyek portofolio yang mensimulasikan platform otomasi bisnis modern. Tujuan proyek ini adalah membangun sistem end-to-end yang menggabungkan backend, API, workflow automation, dashboard, database, dan AI dalam satu ekosistem.
+FlowCore Platform is a portfolio project designed to demonstrate how modern businesses can automate their operations using APIs, workflow automation, artificial intelligence, and cloud-native technologies.
+
+Rather than being a collection of independent demos, this repository represents a single, scalable platform where every module works together as part of a complete business automation ecosystem.
 
 ---
 
-## 🎯 Project Goals
+# Project Vision
 
-Membangun platform yang mampu membantu bisnis mengotomatisasi proses seperti:
+The goal of FlowCore Platform is to build an end-to-end automation platform capable of reducing repetitive work, connecting multiple services, and improving business efficiency.
 
-* Lead Management
+The platform is designed around real-world business scenarios, including:
+
 * Customer Relationship Management (CRM)
+* Lead Management
 * Invoice Automation
 * Email Automation
-* Telegram Notification
-* AI Chat Assistant
-* Dashboard & Analytics
-* API Integration
+* Notification Services
+* AI Assistants
 * Workflow Automation
+* Business Analytics
+* API Integrations
 
 ---
 
-## 🛠 Tech Stack
+# Technology Stack
 
-### Backend
+## Backend
 
 * PHP 8+
 * REST API
 * JWT Authentication
 
-### Frontend
+## Frontend
 
 * HTML
 * CSS
 * JavaScript
 
-### Database
+## Database
 
 * PostgreSQL
 
-### Automation
+## Workflow Automation
 
 * n8n
 
-### AI
+## Artificial Intelligence
 
 * Ollama
 * OpenAI API
 * Google Gemini API
 
-### Infrastructure
+## Infrastructure
 
 * Docker
 * Docker Compose
@@ -58,64 +62,87 @@ Membangun platform yang mampu membantu bisnis mengotomatisasi proses seperti:
 
 ---
 
-## 📦 Planned Modules
+# Planned Features
+
+The platform will gradually evolve through multiple development phases.
+
+### Core Platform
 
 * Authentication
 * User Management
+* Role-Based Access Control
+* REST API
+* API Gateway
+
+### Business Automation
+
 * CRM
 * Customer Management
+* Lead Management
 * Invoice Generator
-* Dashboard
-* Webhook Service
-* API Gateway
-* AI Assistant
-* AI Agent
 * Notification Service
 * Workflow Automation
-* Analytics
+
+### Artificial Intelligence
+
+* AI Chat Assistant
+* AI Agent
+* Document Processing
+* AI Content Generation
+* AI Knowledge Base
+
+### Monitoring & Analytics
+
+* Dashboard
+* Activity Logs
+* Reports
+* Business Analytics
+* System Monitoring
 
 ---
 
-## 📈 Development Roadmap
+# Development Roadmap
 
-### Phase 1
+## Phase 1 — Foundation
 
 * Project Structure
 * Docker Environment
-* PostgreSQL
+* PostgreSQL Setup
 * PHP Backend
 * Health Check API
 
-### Phase 2
+## Phase 2 — Backend
 
 * Authentication
 * User API
-* CRUD
-* Webhook
+* CRUD Operations
+* Database Layer
+* Webhook Endpoint
 
-### Phase 3
+## Phase 3 — Automation
 
-* n8n Automation
-* Telegram Integration
+* n8n Workflows
+* Telegram Notifications
 * Email Automation
+* API Integrations
 
-### Phase 4
+## Phase 4 — Artificial Intelligence
 
-* AI Features
-* Chatbot
+* AI Assistant
 * AI Agent
 * Document Processing
+* AI Automation
 
-### Phase 5
+## Phase 5 — Dashboard
 
-* Dashboard
+* Analytics Dashboard
 * Reporting
 * Monitoring
-* Analytics
+* Business Insights
 
 ---
 
-## 📂 Repository Structure
+# Repository Structure
 
 ```text
 flowcore-platform/
@@ -127,36 +154,55 @@ flowcore-platform/
 ├── docker/
 ├── docs/
 ├── screenshots/
+├── tests/
 └── README.md
 ```
 
 ---
 
-## 📌 Current Status
+# Project Status
 
-🚧 Under Active Development
+**Current Status:** 🚧 Active Development
 
-This repository is continuously updated as part of my journey to become an AI Automation Engineer.
+This project is actively developed as part of my journey to becoming an AI Automation Engineer. Every feature is built incrementally following real software engineering practices, including documentation, version control, testing, and automation.
 
 ---
 
-## 👨‍💻 About Me
+# Project Objectives
 
-I am a software developer focused on building automation systems using:
+This repository demonstrates practical experience in:
 
-* PHP
+* Building REST APIs
+* Designing relational databases
+* Business workflow automation
+* API integration
+* AI-powered applications
+* Docker-based deployment
+* Backend architecture
+* System integration
+* Technical documentation
+
+---
+
+# About the Author
+
+I'm a software developer passionate about building automation systems that simplify business processes.
+
+My primary areas of interest include:
+
+* PHP Development
 * JavaScript
-* REST API
-* Docker
+* REST API Design
 * PostgreSQL
-* n8n
-* AI Automation
-* Workflow Integration
+* Docker
+* n8n Automation
+* AI Integration
+* Backend Engineering
 
-My goal is to design systems that reduce manual work, connect different services, and improve business efficiency through automation.
+I enjoy creating solutions that reduce manual work, integrate multiple services, and improve operational efficiency through automation.
 
 ---
 
-## 📄 License
+# License
 
-MIT License
+This project is released under the **MIT License**.
