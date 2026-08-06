@@ -23,6 +23,7 @@ The platform is designed around real-world business scenarios, including:
 * Workflow Automation
 * Business Analytics
 * API Integrations
+* AI Customer Support
 
 ---
 
@@ -43,6 +44,7 @@ The platform is designed around real-world business scenarios, including:
 ## Database
 
 * PostgreSQL
+* MySQL
 
 ## Workflow Automation
 
@@ -52,7 +54,11 @@ The platform is designed around real-world business scenarios, including:
 
 * Ollama
 * OpenAI API
-* Google Gemini API
+* Google Gemini
+* Anthropic 
+* LlamaA 
+* Mistral
+* DeepSeek
 
 ## Infrastructure
 
