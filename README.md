@@ -1,214 +1,64 @@
-# 🚀 FlowCore Platform
+<h1 align="center">Hi, I'm Bam 👋</h1>
+<h3 align="center">Software Engineer ➔ AI Automation & Agentic Engineering</h3>
 
-> **An AI-powered business automation platform built with PHP, PostgreSQL, Docker, n8n, and modern AI technologies.**
-
-FlowCore Platform is a portfolio project designed to demonstrate how modern businesses can automate their operations using APIs, workflow automation, artificial intelligence, and cloud-native technologies.
-
-Rather than being a collection of independent demos, this repository represents a single, scalable platform where every module works together as part of a complete business automation ecosystem.
-
----
-
-# Project Vision
-
-The goal of FlowCore Platform is to build an end-to-end automation platform capable of reducing repetitive work, connecting multiple services, and improving business efficiency.
-
-The platform is designed around real-world business scenarios, including:
-
-* Customer Relationship Management (CRM)
-* Lead Management
-* Invoice Automation
-* Email Automation
-* Notification Services
-* AI Assistants
-* Workflow Automation
-* Business Analytics
-* API Integrations
-* AI Customer Support
+<p align="center">
+  <i>Software Engineer with 5+ years of experience in backend development, system integration, and automation, with a strong focus on AI Automation, LLM applications, and agentic systems. Experienced in building APIs, integrating complex systems, structuring knowledge, and transforming manual workflows into automated solutions.</i>
+</p>
 
 ---
 
-# Technology Stack
+## 🚀 Core Expertise & Technical Arsenal
 
-## Backend
+### 🧠 AI & Automation
+- **Agentic Engineering:** Building autonomous systems, LLM-based applications, and specialized AI Agents.
+- **Model Context Protocol (MCP):** Advanced context management for integrating AI with local/remote resources.
+- **AI Integrations:** Claude API, OpenAI, Gemini, DeepSeek, and connecting LLMs with external business APIs.
+- **Workflow Automation:** n8n, transforming repetitive manual workloads into intelligent, automated pipelines.
 
-* PHP 8+
-* REST API
-* JWT Authentication
+### 💻 Software Engineering
+- **Backend Mastery:** PHP & Laravel (Primary strength), CodeIgniter, FastAPI (Modern Python APIs), C# / .NET (Enterprise), Ruby.
+- **Architecture:** REST API development, database architecture (PostgreSQL, MySQL), and highly scalable backend services.
+- **Frontend Basics:** HTML, CSS, Bootstrap.
 
-## Frontend
+### 🔗 Integration Engineering
+- **System Architecture:** Designing seamless communication flows and data pipelines between distinct applications.
+- **API Orchestration:** Advanced API integrations connecting fragmented microservices into a cohesive business process.
+- **Problem Solving:** Bridging the gap between legacy systems and modern AI automation tools.
 
-* HTML
-* CSS
-* JavaScript
-
-## Database
-
-* PostgreSQL
-* MySQL
-
-## Workflow Automation
-
-* n8n
-
-## Artificial Intelligence
-
-* Ollama
-* OpenAI API
-* Google Gemini
-* Anthropic 
-* LlamaA 
-* Mistral
-* DeepSeek
-
-## Infrastructure
-
-* Docker
-* Docker Compose
-* Nginx
+### 📂 Knowledge Engineering
+- Structuring complex information and mapping data logic.
+- Building knowledge management systems tailored for AI consumption and RAG (Retrieval-Augmented Generation).
+- Designing highly efficient, logic-driven workflows.
 
 ---
 
-# Planned Features
+## 🔭 Featured Project: FlowCore Platform
 
-The platform will gradually evolve through multiple development phases.
+Currently developing the **FlowCore Platform**, an end-to-end, AI-powered business automation ecosystem.
 
-### Core Platform
+Rather than a collection of independent demos, FlowCore is a unified, scalable platform where every module works together, built with **PHP, PostgreSQL, Docker, n8n, and modern AI**. 
 
-* Authentication
-* User Management
-* Role-Based Access Control
-* REST API
-* API Gateway
-
-### Business Automation
-
-* CRM
-* Customer Management
-* Lead Management
-* Invoice Generator
-* Notification Service
-* Workflow Automation
-
-### Artificial Intelligence
-
-* AI Chat Assistant
-* AI Agent
-* Document Processing
-* AI Content Generation
-* AI Knowledge Base
-
-### Monitoring & Analytics
-
-* Dashboard
-* Activity Logs
-* Reports
-* Business Analytics
-* System Monitoring
+**Core Capabilities:**
+- **Business Automation:** CRM, Lead Management, Invoice Generation, and Notification Services.
+- **AI Ecosystem:** AI Chat Assistants, AI Agents, Document Processing, and AI Customer Support using Ollama, OpenAI, Google Gemini, Anthropic, and DeepSeek.
+- **Infrastructure:** Containerized via Docker & Nginx with robust JWT-authenticated REST APIs.
 
 ---
 
-# Development Roadmap
+## 💼 Professional Background
+- **5–6 Years of Experience** as a Software Engineer.
+- Professional tenure includes building robust systems at **PT Astra Digital Internasional** [cite: 1].
+- Proven track record of moving beyond simple web development into complex backend and automation architecture.
 
-## Phase 1 — Foundation
+## 🎯 Target Roles & Opportunities
+My unique value proposition is the combination of **software engineering + system integration + automation + AI**. I am highly interested in roles such as:
 
-* Project Structure
-* Docker Environment
-* PostgreSQL Setup
-* PHP Backend
-* Health Check API
+1. **AI Automation Engineer**
+2. **AI Engineer / Applied AI Engineer**
+3. **AI Agent / Agentic Engineer**
+4. **Software Engineer – AI/Automation**
+5. **Integration Engineer**
 
-## Phase 2 — Backend
-
-* Authentication
-* User API
-* CRUD Operations
-* Database Layer
-* Webhook Endpoint
-
-## Phase 3 — Automation
-
-* n8n Workflows
-* Telegram Notifications
-* Email Automation
-* API Integrations
-
-## Phase 4 — Artificial Intelligence
-
-* AI Assistant
-* AI Agent
-* Document Processing
-* AI Automation
-
-## Phase 5 — Dashboard
-
-* Analytics Dashboard
-* Reporting
-* Monitoring
-* Business Insights
-
----
-
-# Repository Structure
-
-```text
-flowcore-platform/
-│
-├── backend/
-├── frontend/
-├── database/
-├── automation/
-├── docker/
-├── docs/
-├── screenshots/
-├── tests/
-└── README.md
-```
-
----
-
-# Project Status
-
-**Current Status:** 🚧 Active Development
-
-This project is actively developed as part of my journey to becoming an AI Automation Engineer. Every feature is built incrementally following real software engineering practices, including documentation, version control, testing, and automation.
-
----
-
-# Project Objectives
-
-This repository demonstrates practical experience in:
-
-* Building REST APIs
-* Designing relational databases
-* Business workflow automation
-* API integration
-* AI-powered applications
-* Docker-based deployment
-* Backend architecture
-* System integration
-* Technical documentation
-
----
-
-# About the Author
-
-I'm a software developer passionate about building automation systems that simplify business processes.
-
-My primary areas of interest include:
-
-* PHP Development
-* JavaScript
-* REST API Design
-* PostgreSQL
-* Docker
-* n8n Automation
-* AI Integration
-* Backend Engineering
-
-I enjoy creating solutions that reduce manual work, integrate multiple services, and improve operational efficiency through automation.
-
----
-
-# License
-
-This project is released under the **MIT License**.
+<p align="center">
+  <b>Let's connect and build intelligent systems together!</b>
+</p>
